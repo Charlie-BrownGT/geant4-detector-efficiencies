@@ -1065,6 +1065,7 @@ CMakeFiles/sim.dir/construction.cc.o
  /usr/include/c++/11/list
  /usr/include/c++/11/bits/stl_list.h
  /usr/include/c++/11/bits/list.tcc
+ /home/guy/software/geant4/geant4-v11.2.1-ST-install/include/Geant4/G4PhysicsOrderedFreeVector.hh
 
 CMakeFiles/sim.dir/detector.cc.o
  /home/guy/geant4-detector-efficiencies/detector.cc
@@ -1685,6 +1686,8 @@ CMakeFiles/sim.dir/detector.cc.o
  /usr/include/c++/11/list
  /usr/include/c++/11/bits/stl_list.h
  /usr/include/c++/11/bits/list.tcc
+ /home/guy/software/geant4/geant4-v11.2.1-ST-install/include/Geant4/G4SystemOfUnits.hh
+ /home/guy/software/geant4/geant4-v11.2.1-ST-install/include/Geant4/G4PhysicsOrderedFreeVector.hh
 
 CMakeFiles/sim.dir/generator.cc.o
  /home/guy/geant4-detector-efficiencies/generator.cc
@@ -3597,6 +3600,7 @@ CMakeFiles/sim.dir/sim.cc.o
  /home/guy/software/geant4/geant4-v11.2.1-ST-install/include/Geant4/G4GenericAnalysisManager.icc
  /home/guy/software/geant4/geant4-v11.2.1-ST-install/include/Geant4/G4GenericFileManager.hh
  /home/guy/software/geant4/geant4-v11.2.1-ST-install/include/Geant4/G4GenericFileManager.icc
+ /home/guy/software/geant4/geant4-v11.2.1-ST-install/include/Geant4/G4PhysicsOrderedFreeVector.hh
  /home/guy/geant4-detector-efficiencies/physics.hh
  /home/guy/software/geant4/geant4-v11.2.1-ST-install/include/Geant4/G4VModularPhysicsList.hh
  /home/guy/software/geant4/geant4-v11.2.1-ST-install/include/Geant4/G4VPhysicsConstructor.hh
